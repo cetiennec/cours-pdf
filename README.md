@@ -37,8 +37,7 @@ Dernière mise à jour : 28/07/2026
 
 ## ece/systemes-boucles/evaluations/2025-2026/qcm-final
 
-- [TOUS_CORRIGES.pdf](ece/systemes-boucles/evaluations/2025-2026/qcm-final/diffusion/TOUS_CORRIGES.pdf)
-- [TOUS_SUJETS.pdf](ece/systemes-boucles/evaluations/2025-2026/qcm-final/diffusion/TOUS_SUJETS.pdf)
+- [qcm_midterm_exemple.pdf](ece/systemes-boucles/evaluations/2025-2026/qcm-final/diffusion/qcm_midterm_exemple.pdf)
 
 ## ece/systemes-boucles/evaluations/2025-2026/rattrapage
 
