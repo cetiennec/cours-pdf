@@ -6,6 +6,18 @@ ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 Dernière mise à jour : 11/08/2026
 
 
+## centralesupelec/reinforcement-learning/cours/01-introduction-mdp
+
+- [01-introduction-mdp.pdf](centralesupelec/reinforcement-learning/cours/01-introduction-mdp/diffusion/01-introduction-mdp.pdf)
+
+## centralesupelec/reinforcement-learning/cours/02-programmation-dynamique
+
+- [02-programmation-dynamique.pdf](centralesupelec/reinforcement-learning/cours/02-programmation-dynamique/diffusion/02-programmation-dynamique.pdf)
+
+## centralesupelec/reinforcement-learning/cours/04-controle-sans-modele
+
+- [04-controle-sans-modele.pdf](centralesupelec/reinforcement-learning/cours/04-controle-sans-modele/diffusion/04-controle-sans-modele.pdf)
+
 ## ece/systemes-boucles/cours/05-bis-elements-simples
 
 - [05-bis-elements-simples.pdf](ece/systemes-boucles/cours/05-bis-elements-simples/diffusion/05-bis-elements-simples.pdf)
