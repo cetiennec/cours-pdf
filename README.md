@@ -14,9 +14,13 @@ Dernière mise à jour : 11/08/2026
 
 - [02-programmation-dynamique.pdf](centralesupelec/reinforcement-learning/cours/02-programmation-dynamique/diffusion/02-programmation-dynamique.pdf)
 
+## centralesupelec/reinforcement-learning/cours/03-model-free-learning
+
+- [03-model-free-learning.pdf](centralesupelec/reinforcement-learning/cours/03-model-free-learning/diffusion/03-model-free-learning.pdf)
+
 ## centralesupelec/reinforcement-learning/cours/04-deep-rl-applications
 
-- [04-controle-sans-modele.pdf](centralesupelec/reinforcement-learning/cours/04-deep-rl-applications/diffusion/04-controle-sans-modele.pdf)
+- [04-deep-rl-applications.pdf](centralesupelec/reinforcement-learning/cours/04-deep-rl-applications/diffusion/04-deep-rl-applications.pdf)
 
 ## ece/systemes-boucles/cours/05-bis-elements-simples
 
