@@ -3,7 +3,7 @@
 PDF distribués aux étudiants. Les sources LaTeX vivent dans un dépôt privé ;
 ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 
-Dernière mise à jour : 11/08/2026
+Dernière mise à jour : 14/08/2026
 
 
 ## centralesupelec/reinforcement-learning/cours/01-introduction-mdp
