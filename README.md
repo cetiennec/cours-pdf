@@ -3,7 +3,7 @@
 PDF distribués aux étudiants. Les sources LaTeX vivent dans un dépôt privé ;
 ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 
-Dernière mise à jour : 14/08/2026
+Dernière mise à jour : 21/08/2026
 
 
 ## centralesupelec/reinforcement-learning/cours/01-introduction-mdp
@@ -21,6 +21,14 @@ Dernière mise à jour : 14/08/2026
 ## centralesupelec/reinforcement-learning/cours/04-deep-rl-applications
 
 - [04-deep-rl-applications.pdf](centralesupelec/reinforcement-learning/cours/04-deep-rl-applications/diffusion/04-deep-rl-applications.pdf)
+
+## centralesupelec/reinforcement-learning/TD-2026-2027/01-introduction-mdp
+
+- [exercises.pdf](centralesupelec/reinforcement-learning/TD-2026-2027/01-introduction-mdp/diffusion/exercises.pdf)
+
+## centralesupelec/reinforcement-learning/TD-2026-2027/02-programmation-dynamique
+
+- [exercises.pdf](centralesupelec/reinforcement-learning/TD-2026-2027/02-programmation-dynamique/diffusion/exercises.pdf)
 
 ## ece/systemes-boucles/cours/05-bis-elements-simples
 
@@ -48,8 +56,8 @@ Dernière mise à jour : 14/08/2026
 
 ## ece/systemes-boucles/evaluations/2025-2026/examen-final
 
-- [examen_final.pdf](ece/systemes-boucles/evaluations/2025-2026/examen-final/diffusion/examen_final.pdf)
 - [examen_final_feuille_reponse.pdf](ece/systemes-boucles/evaluations/2025-2026/examen-final/diffusion/examen_final_feuille_reponse.pdf)
+- [examen_final.pdf](ece/systemes-boucles/evaluations/2025-2026/examen-final/diffusion/examen_final.pdf)
 
 ## ece/systemes-boucles/evaluations/2025-2026/qcm-final
 
