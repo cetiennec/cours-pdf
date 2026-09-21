@@ -3,7 +3,7 @@
 PDF distribués aux étudiants. Les sources LaTeX vivent dans un dépôt privé ;
 ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 
-Dernière mise à jour : 08/09/2026
+Dernière mise à jour : 21/09/2026
 
 
 ## albertschool/mathematics-foundations/cours/01-vectors-geometry-similarity
@@ -32,7 +32,7 @@ Dernière mise à jour : 08/09/2026
 
 ## centralesupelec/reinforcement-learning/cours/01-introduction-mdp
 
-- [01-introduction-mdp.pdf](centralesupelec/reinforcement-learning/cours/01-introduction-mdp/diffusion/01-introduction-mdp.pdf)
+- [01-RL-introduction-mdp.pdf](centralesupelec/reinforcement-learning/cours/01-introduction-mdp/diffusion/01-RL-introduction-mdp.pdf)
 
 ## centralesupelec/reinforcement-learning/cours/02-programmation-dynamique
 
