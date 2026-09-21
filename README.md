@@ -30,6 +30,10 @@ Dernière mise à jour : 21/09/2026
 
 - [exercises.pdf](centralesupelec/reinforcement-learning/TD-2026-2027/02-programmation-dynamique/diffusion/exercises.pdf)
 
+## centralesupelec/reinforcement-learning/TD-2026-2027/bonus-booklet
+
+- [exercises.pdf](centralesupelec/reinforcement-learning/TD-2026-2027/bonus-booklet/diffusion/exercises.pdf)
+
 ## centralesupelec/reinforcement-learning/cours/01-introduction-mdp
 
 - [01-RL-introduction-mdp.pdf](centralesupelec/reinforcement-learning/cours/01-introduction-mdp/diffusion/01-RL-introduction-mdp.pdf)
