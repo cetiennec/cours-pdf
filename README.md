@@ -3,7 +3,7 @@
 PDF distribués aux étudiants. Les sources LaTeX vivent dans un dépôt privé ;
 ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 
-Dernière mise à jour : 29/09/2026
+Dernière mise à jour : 30/09/2026
 
 
 ## albertschool/mathematics-foundations/cours/01-vectors-geometry-similarity
