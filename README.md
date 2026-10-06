@@ -3,7 +3,7 @@
 PDF distribués aux étudiants. Les sources LaTeX vivent dans un dépôt privé ;
 ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 
-Dernière mise à jour : 30/09/2026
+Dernière mise à jour : 06/10/2026
 
 
 ## albertschool/mathematics-foundations/cours/01-vectors-geometry-similarity
@@ -41,6 +41,7 @@ Dernière mise à jour : 30/09/2026
 
 ## centralesupelec/reinforcement-learning/cours/02-programmation-dynamique
 
+- [02-programmation-dynamique-handout.pdf](centralesupelec/reinforcement-learning/cours/02-programmation-dynamique/diffusion/02-programmation-dynamique-handout.pdf)
 - [02-programmation-dynamique.pdf](centralesupelec/reinforcement-learning/cours/02-programmation-dynamique/diffusion/02-programmation-dynamique.pdf)
 
 ## centralesupelec/reinforcement-learning/cours/03-model-free-learning
