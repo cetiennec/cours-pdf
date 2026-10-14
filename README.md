@@ -3,7 +3,7 @@
 PDF distribués aux étudiants. Les sources LaTeX vivent dans un dépôt privé ;
 ce dépôt-ci est régénéré automatiquement, ne pas y éditer à la main.
 
-Dernière mise à jour : 06/10/2026
+Dernière mise à jour : 14/10/2026
 
 
 ## albertschool/mathematics-foundations/cours/01-vectors-geometry-similarity
@@ -20,6 +20,7 @@ Dernière mise à jour : 06/10/2026
 
 ## albertschool/mathematics-foundations/cours/04-gradients-gradient-descent-assessment
 
+- [04-gradients-gradient-descent-assessment-schemas.pdf](albertschool/mathematics-foundations/cours/04-gradients-gradient-descent-assessment/diffusion/04-gradients-gradient-descent-assessment-schemas.pdf)
 - [04-gradients-gradient-descent-assessment.pdf](albertschool/mathematics-foundations/cours/04-gradients-gradient-descent-assessment/diffusion/04-gradients-gradient-descent-assessment.pdf)
 
 ## centralesupelec/reinforcement-learning/TD-2026-2027/01-introduction-mdp
